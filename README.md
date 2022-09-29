@@ -1,10 +1,13 @@
-terraform-ansible
-Provision EC2 instance using Terraform and install software and deploy app using Ansible
+Terraform-Ansible
 
-Create an EC2 instance
+In this hands-on project I will attempt to:
 
-Create a Security Group and whitelist the port 22 & 8080
+1. Provision EC2 instance using Terraform and install software and deploy app using Ansible
 
-Fetch the Public IP
+2. Create an EC2 instance
 
-Run Ansible Playbook
+3. Create a Security Group and whitelist the port 22 & 8080
+
+4. Fetch the Public IP
+
+5. Run Ansible Playbook
